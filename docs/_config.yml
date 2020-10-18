@@ -1,2 +1,4 @@
 title: Jekyll Setup on GitHub
 markdown: kramdown
+
+theme: jekyll-theme-minimal
