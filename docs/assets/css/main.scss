@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Fira+Code:400,600|Fira+Sans:400,600&display=swap&subset=latin-ext');
+
+html, body, pre, code {
+    font-size: 16px !important;
+    line-height: 1.5;
+}
+
+html, body {
+    font-family: "Fira Sans";
+}
+
+pre, code {
+    font-family: "Fira Code";
+}
+
+pre {
+    break-inside: avoid;
+}
